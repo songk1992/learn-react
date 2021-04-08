@@ -1,11 +1,31 @@
-# Sample Snack app
+# REACT 스터디용 프로젝트
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<br />
+<!-- Logo -->
+<p align="center">
+  <img src="/assets/react-native.png" alt="Note" height="150px">
+</p>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+<!-- Title and Description -->
+<div align="center">
+Note
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+ _Personal study notes and drafts of books, papers, and courses (e.g. [Udemy](https://www.udemy.com/))
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+</div>
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+# 📓 REACT 참고 자료
+
+<br />
+
+[ REACT 공식 문서 ](https://reactjs.org/docs/getting-started.html "REACT 공식 문서")
+
+<br />
+
+[ REACT 온라인 editing tool ](https://snack.expo.io/uI0nDkCnm "REACT 온라인 editing tool")
+
+<br />
+
+[ Complete React Native in 2021: Zero to Mastery with Hooks (유데미 유료 강의) ](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/ "REACT 온라인 강의")
+
+
