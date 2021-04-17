@@ -1,4 +1,9 @@
+#dependencies
 node_modules/**/*
+
+#testing
+/coverage
+
 .expo/*
 npm-debug.*
 *.jks
